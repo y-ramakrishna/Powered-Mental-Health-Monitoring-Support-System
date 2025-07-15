@@ -17,7 +17,8 @@ Interactive Web Application (Streamlit):A user-friendly interface for real-time 
 
 ## Why Explainable AI (XAI)?
 
-In sensitive domains like mental health, understanding *why* an AI model arrives at a particular conclusion is paramount. Black-box models, while powerful, lack the transparency needed for critical applications. By incorporating LIME, this project aims to:
+In sensitive domains like mental health, understanding why an AI model arrives at a particular conclusion is paramount. Black-box models, while powerful, lack the transparency needed for critical applications. By incorporating LIME, this project aims to:
+
 1.Build Trust:Users can see which parts of their text led to a specific prediction.
 
 2.Aid Interpretation: Researchers or practitioners can gain insights into patterns the model learns.
